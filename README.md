@@ -12,6 +12,10 @@ The primary goal of this project is to design and evaluate advanced machine lear
 3) Identify and interperet the most influential features contributing to late deliveries using explainable tools.
 4) Suggest a practical solution that can reduce delivery delays.
 
+# Why This Project Is Relevant
+
+Logistics is a critical part of many industries, and delayed deliveries directly impact customer satisfaction and operational cost. This project demonstrates my ability to solve a real-world classification problem, optimize model performance, and deliver business-ready insights that can help companies make better decisions with data.
+
 # What I did
 - Cleaned and transformed the dataset.
 - Created relevant features that may help the classification.
